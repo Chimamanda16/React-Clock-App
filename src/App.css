@@ -1,0 +1,25 @@
+*{
+    background-color: #000;
+}
+
+.clock{
+    border: 20px solid green;
+    border-radius: 20px;
+    color: green;
+    margin: auto;
+    padding: 10%;
+    text-align: center;
+    width: 50%;
+}
+
+.container{
+    color: #fff;
+    margin: auto;
+}
+
+.container h1{
+    margin: auto;
+    margin-bottom: 5%;
+    text-align: center;
+    width: 50%;
+}
